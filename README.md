@@ -28,4 +28,3 @@ Python (FastAPI, LangGraph), C# / Unity (game audio implementation), ChromaDB, W
 ## Contact
 
 - LinkedIn: [linkedin.com/in/victorsola](https://www.linkedin.com/) <!-- TODO: replace with your actual LinkedIn URL -->
-- Music: Fast Boo / BADMP3 (Flattown Records)
